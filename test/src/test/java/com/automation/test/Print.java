@@ -8,6 +8,7 @@ public class Print {
 public void sumtest()
 	{
 		System.out.println("my name is sasi");
+		System.out.println("my name is sasi1");
 
 	}
 
