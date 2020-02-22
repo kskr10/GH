@@ -8,7 +8,7 @@ public class Print {
 public void sumtest()
 	{
 		System.out.println("my name is sasi");
-		System.out.println("my name is sasi11235");
+		System.out.println("my name is sasi11278");
 		
 
 	}
